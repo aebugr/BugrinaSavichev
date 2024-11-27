@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeBugrina", "SnakeBugrina.csproj", "{70F0E2EB-281F-470F-9F19-EFA439F678CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "..\Common\Common.csproj", "{576D60CE-E190-4DBB-8F81-1A15DA1E419B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "..\Common\Common.csproj", "{CB3CF6B3-3736-4343-99CB-3A6D6B4F57B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{70F0E2EB-281F-470F-9F19-EFA439F678CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70F0E2EB-281F-470F-9F19-EFA439F678CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70F0E2EB-281F-470F-9F19-EFA439F678CB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{576D60CE-E190-4DBB-8F81-1A15DA1E419B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{576D60CE-E190-4DBB-8F81-1A15DA1E419B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{576D60CE-E190-4DBB-8F81-1A15DA1E419B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{576D60CE-E190-4DBB-8F81-1A15DA1E419B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB3CF6B3-3736-4343-99CB-3A6D6B4F57B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB3CF6B3-3736-4343-99CB-3A6D6B4F57B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB3CF6B3-3736-4343-99CB-3A6D6B4F57B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB3CF6B3-3736-4343-99CB-3A6D6B4F57B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
